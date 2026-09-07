@@ -1,5 +1,3 @@
 First rebase commit
 
 Second rebase commit
-
-Third Rebase commit
